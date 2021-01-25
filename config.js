@@ -1,8 +1,8 @@
-const AppConfig = 
+icconst AppConfig = 
 
 {
     title : "Cervix Type Classification?"
-    ,host : "https://food-img-classifier.herokuapp.com"
+    ,host : "https://cervic.herokuapp.com"
 };
 
 const description = `
